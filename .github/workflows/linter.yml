@@ -65,7 +65,7 @@ jobs:
         with:
           context: .
           push: true
-          tags: yourdockerhubusername/yourimagename:latest
+          tags: stefanmileski/randomImageName:latest
           
       ################################
       # Run Linter against code base #
